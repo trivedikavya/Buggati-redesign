@@ -28,13 +28,13 @@ To transform a static, underwhelming website into a **high-end digital showroom*
 
 
 ## 🔗 Live Demo / Preview
-[View the redesigned Bugatti experience](#) *([Add your deployment link](https://preeminent-puppy-7deb2c.netlify.app/))*
+(https://preeminent-puppy-7deb2c.netlify.app/)
 
 ---
 
 ## 💬 Feedback
 Open to thoughts and feedback!  
-Let’s connect on [LinkedIn](https://linkedin.com/in/your-profile) or feel free to open an issue.
+Let’s connect on [LinkedIn](www.linkedin.com/in/trivedikavya) or feel free to open an issue.
 
 ---
 
