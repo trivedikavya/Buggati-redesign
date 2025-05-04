@@ -28,7 +28,7 @@ To transform a static, underwhelming website into a **high-end digital showroom*
 
 
 ## 🔗 Live Demo / Preview
-[View the redesigned Bugatti experience](#) *(Add your deployment link)*
+[View the redesigned Bugatti experience](#) *([Add your deployment link](https://preeminent-puppy-7deb2c.netlify.app/))*
 
 ---
 
